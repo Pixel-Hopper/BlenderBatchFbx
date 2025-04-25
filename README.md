@@ -2,10 +2,6 @@
 
 <br />
 
-<h1 align="center">BlenderBatchFbx</h1>
-
-<br />
-
 <div align="center">
   <strong>Automatic Fbx exporter for all .blend files in the directory</strong>
 </div>
