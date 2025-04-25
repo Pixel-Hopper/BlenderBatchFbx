@@ -1,4 +1,6 @@
-<h1 align="center">🤖 🦤 🤖</h1>
+<div align="center">
+  <span style="font-size: 3rem;">🤖 🦤 🤖</span>
+</div>
 
 ## Instructions
 
