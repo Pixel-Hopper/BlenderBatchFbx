@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchFbx/blob/main/images/robot.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchFbx/blob/main/images/dodo.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchFbx/blob/main/images/robot.svg" width=10% height=10%>
+🤖 🦤 🤖
 
 </div>
 
@@ -17,13 +15,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jaime-rodriguez-art/BlenderBatchFbx">
-  <a href="https://github.com/jaime-rodriguez-art/BlenderBatchFbx/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jaime-rodriguez-art/BlenderBatchFbx"></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/jaime-rodriguez-art/BlenderBatchFbx">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaime-rodriguez-art/BlenderBatchFbx">
-</div>
 
 ## Instructions
 
@@ -50,4 +41,4 @@ OpenMoji, Open source emojis for designers, developers and everyone else. https:
 
 ## About Me
 
-Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez 
+Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez
