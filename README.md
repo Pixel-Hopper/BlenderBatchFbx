@@ -1,7 +1,5 @@
 <h1 align="center">🤖 🦤 🤖</h1>
 
-<br />
-
 ## Instructions
 
 1. Put every blender file you want to unpack into the same folder as the batch and python script.
