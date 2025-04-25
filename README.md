@@ -2,11 +2,7 @@
 
 <br />
 
-<div align="center" style="font-size: 50rem;">
-
-🤖 🦤 🤖
-
-</div>
+<h1 align="center">🤖 🦤 🤖</h1>
 
 <br />
 
