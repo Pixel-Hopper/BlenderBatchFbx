@@ -1,6 +1,7 @@
 <div align="center">
-  <span style="font-size: 60rem;">🤖 🦤 🤖</span>
+  <span style="font-size: 600px;">🤖 🦤 🤖</span>
 </div>
+
 
 
 ## Instructions
